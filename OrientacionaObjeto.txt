@@ -1,0 +1,85 @@
+Metodo> 
+
+Algoritmo asociado a un objeto 
+
+>>Argumento 
+
+Valor que se envia
+
+>>Parametro
+
+Declaracion de variable u objeto. 
+
+
+
+Objeto > auto
+Metodo > acelerar
+
+auto.acelerar();
+
+Argumento > 100 //velocidad
+
+>> Declaracion de un metodo 
+
+Public void metodo ( int a, string b ) // Declaracion de variable u objeto = Parametro
+
+{
+
+
+}
+
+>> invocacion de un metodo
+
+objeto.metodo (1,"Hola" ) ; // valor que se envia = Argumento
+
+>> Metodos (comportamiento) \ Atributos (estado)
+
+velocidad= distancia/tiempo
+distancia= 80
+tiempo= 12000
+
+ 
+Print("Digite si esta encendido o apagado",Estado);
+if estado=1      // Metodo (estado) 
+
+carro.velocidad ();  
+
+else 
+
+Print("El carro esta apagado")
+
+1= rojo;
+2= verde; 
+
+Print(Digite el color,C);
+
+ 
+Carro.color() // Atributo
+
+
+>>> Clase es una plantilla para la creacion de objetos de datos. 
+
+Contiene metodos y atributos , variables 
+
+
+>>> Herencia es un proceso por el cual un objeto hereda las propiedades y metodos 
+de otro, sin necesidad de volverlas a definir desde el principio. 
+
+Vehiculo //Clase padre
+
+coche moto bus // Clase hijos
+
+
+>>> Instancia es un objeto de una clase que tiene atributos en vez de variables.
+
+
+Otra explicacion 
+
+Objeto= variable que se le define atributos.
+Atributos= Son caracteristicas que son variables.
+Metodo= acciones que puede hacer un objeto.
+parametro= Declaracion de un objeto. 
+Argumento= Valor que se envia. 
+Clase= Molde base de Objeto con caracteristicas unica. 
+Instancia= Creacion de un nuevo objeto.
+Herencia= Caracteristicas heredadas de la clase base.
